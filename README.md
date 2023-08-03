@@ -17,7 +17,7 @@ pip install face_recognition opencv-python
 
 4. Run the application: Execute the Python script using the following command:
 ```
-python facial_recognition.py
+python face.py
 ```
 
 
